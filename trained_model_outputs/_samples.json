@@ -1,0 +1,23 @@
+[
+  {
+    "machine_temperature": 100.4916546,
+    "machine_pressure": 10.05601129,
+    "ambient_temperature": 21.18559906,
+    "ambient_humidity": 26.0,
+    "anomaly": 0.0
+  },
+  {
+    "machine_temperature": 80.52074027,
+    "machine_pressure": 7.780843828,
+    "ambient_temperature": 21.43749489,
+    "ambient_humidity": 24.0,
+    "anomaly": 0.0
+  },
+  {
+    "machine_temperature": 100.225583,
+    "machine_pressure": 10.02569933,
+    "ambient_temperature": 21.29762776,
+    "ambient_humidity": 25.0,
+    "anomaly": 0.0
+  }
+]
